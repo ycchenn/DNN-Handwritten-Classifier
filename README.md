@@ -18,4 +18,4 @@
 
 ## 介面展示
 
-![Demo Screenshot](https://github.com/ycchenn/DNN-Handwritten-Classifier/blob/main/screenshot.png?raw=true)
+![Demo Screenshot](demo.png)
